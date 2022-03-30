@@ -22,6 +22,7 @@ As there aren’t many information about locomotion field or community to share 
 
 ### Character Animation
 Some papers to checkout:
+(If you are new, it is strongly recommended to checkout review papers)
 
 #### Motion Control
 
