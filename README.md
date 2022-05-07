@@ -59,7 +59,7 @@ Some papers to checkout:
 - [Motion Warping | Siggraph 1995](https://homes.cs.washington.edu/~zoran/warpage/warpage.pdf)
 
 
-### 🛠 Application
+### 🛠 Application or State-of-the-art
 
 Some papers might intrigue you :)
 
