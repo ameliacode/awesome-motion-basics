@@ -24,6 +24,10 @@ As there aren’t many information about locomotion field or community to share 
 Some papers to checkout:
 (If you are new, it is strongly recommended to checkout review papers)
 
+#### Motion Blending
+- [Flexible Automatic Motion Blending with Registration Curves Lucas | Eurographics 2003](https://research.cs.wisc.edu/graphics/Gallery/kovar.vol/RegistrationCurves/regCurves.pdf)
+- [Motion Blending Krisine Slot 2007](http://image.diku.dk/projects/media/kristine.slot.07.pdf)
+
 #### Motion Control
 
 #### Motion Denoise
@@ -32,4 +36,8 @@ Some papers to checkout:
 
 #### Motion Matching
 
+#### Motion stitching
+
 #### Motion Synthesis
+
+#### Motion Warping
