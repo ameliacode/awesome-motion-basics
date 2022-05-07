@@ -69,6 +69,6 @@ Some papers might intrigue you :)
 Mostly, unlike other computer science field, graphics engineers or researchers publish their paper in these conferences: . Compared to other conferences, its registration fees are slightly expensive 🙄.
 
 
-### Some great graphics related developer/researchers out there:
+### 😎 Cool Graphics developer/researchers out there:
 
 
