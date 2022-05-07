@@ -42,3 +42,8 @@ Some papers to checkout:
 
 #### Motion Warping
 - [Motion Warping | Siggraph 1995](https://homes.cs.washington.edu/~zoran/warpage/warpage.pdf)
+
+
+### 🛠 Application
+
+Some papers might intrigue you :)
