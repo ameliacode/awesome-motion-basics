@@ -41,3 +41,4 @@ Some papers to checkout:
 #### Motion Synthesis
 
 #### Motion Warping
+- [Motion Warping | Siggraph 1995](https://homes.cs.washington.edu/~zoran/warpage/warpage.pdf)
