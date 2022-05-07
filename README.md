@@ -37,6 +37,11 @@ As long it is not simulated, users can simply create kinematic environment.
 Some papers to checkout:
 (If you are new, it is strongly recommended to checkout review papers)
 
+#### Motion stitching
+
+#### Motion Warping
+- [Motion Warping | Siggraph 1995](https://homes.cs.washington.edu/~zoran/warpage/warpage.pdf)
+
 #### Motion Blending
 - [Flexible Automatic Motion Blending with Registration Curves Lucas | Eurographics 2003](https://research.cs.wisc.edu/graphics/Gallery/kovar.vol/RegistrationCurves/regCurves.pdf)
 - [Motion Blending Krisine Slot 2007](http://image.diku.dk/projects/media/kristine.slot.07.pdf)
@@ -51,12 +56,8 @@ Some papers to checkout:
 
 #### Motion Matching
 
-#### Motion stitching
-
 #### Motion Synthesis
 
-#### Motion Warping
-- [Motion Warping | Siggraph 1995](https://homes.cs.washington.edu/~zoran/warpage/warpage.pdf)
 
 
 ### 🛠 Application or State-of-the-art
@@ -66,4 +67,8 @@ Some papers might intrigue you :)
 
 ### Siggraph, Eurographics etc.
 Mostly, unlike other computer science field, graphics engineers or researchers publish their paper in these conferences: . Compared to other conferences, its registration fees are slightly expensive 🙄.
+
+
+### Some great graphics related developer/researchers out there:
+
 
