@@ -3,12 +3,14 @@
 <p align="center">📓 From Basic to its Application 🛠</p>
   
 ---
-### Content
+## Content
 - Computer Graphics Basics
 - Locomotion Kinematic Basics
 - Related Simulation Engines
 - Character Animation
 - Application State-of-the-Art
+
+## Introduction
 
 ### 💻 Computer Graphics Basics
 Books and website to recommend 
