@@ -20,13 +20,15 @@ Books and website to recommend
 
 ### 🦿 Locomotion Kinematics Basics 
 
-#### Motion data
+#### Motion Dataset 
 Its file extension vary: .bvh, .amc, .c3d, .mpg, .npz and so on. See [CMU dataset](http://mocap.cs.cmu.edu/) for more info.  
 Overall, Skeleton consists a number of joints, starting from a root(mostly refer to hips, pelvis, etc.) to all joints expand as child joints. In a skeleton, joints form a hierarchical structure with parent-child relationship. So, it is recommended to have prior knowledge of rotation unit (unit quaternion, rotation matrix, rotation vector, euler angle and so on), some data structure (tree, list) and, difference between character space(local joint space) and world space(global joint space).
 
 ☑ For starter, start playing with mocap file: ⚠ Notify not all mocap files have same joint numbers, info or sequences.
 - Mocap data parser: [Fairmotion](https://github.com/facebookresearch/fairmotion)
 - Simplified bvh parser [NpyBvh](https://github.com/dabeschte/npybvh)
+
+#### Data Processing
 
 
 ### Related Simulation Engines
