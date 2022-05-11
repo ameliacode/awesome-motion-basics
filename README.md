@@ -14,7 +14,7 @@
 - Locomotion Kinematic Basics
 - Related Simulation Engines
 - Character Animation
-- Application State-of-the-Art
+- Implementation / State-of-the-Art
 
 ## Introduction
 
