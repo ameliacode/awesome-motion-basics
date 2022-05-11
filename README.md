@@ -32,7 +32,10 @@ Overall, Skeleton consists a number of joints, starting from a root(mostly refer
 ### Related Simulation Engines
 
 #### Pybullet
-As long it is not simulated, users can simply create kinematic environment. 
+As long it is not simulated, users can simply create kinematic environment.
+- [Pybullet](https://github.com/bulletphysics/bullet3)
+- [Pybullet RL Environments: Zoo](https://github.com/araffin/rl-baselines-zoo)
+- [TUTORIAL: Teaching humanoid walk](https://www.codeproject.com/Articles/5280281/Teaching-a-Robot-to-Walk-with-AI-Introduction-to-C)
 
 #### Pydart
 #### Gazebo
@@ -43,7 +46,7 @@ As long it is not simulated, users can simply create kinematic environment.
 Some papers to checkout:
 (If you are new, it is strongly recommended to checkout review papers)
 
-#### Motion stitching
+#### Motion Stitching
 
 #### Motion Warping
 - [Motion Warping | Siggraph 1995](https://homes.cs.washington.edu/~zoran/warpage/warpage.pdf)
@@ -52,15 +55,13 @@ Some papers to checkout:
 - [Flexible Automatic Motion Blending with Registration Curves Lucas | Eurographics 2003](https://research.cs.wisc.edu/graphics/Gallery/kovar.vol/RegistrationCurves/regCurves.pdf)
 - [Motion Blending Krisine Slot 2007](http://image.diku.dk/projects/media/kristine.slot.07.pdf)
 
-#### Motion Control
-- [Chracter MVAE control | Siggraph 2020]()
-- []
-
 #### Motion Denoise
 
-#### Motion Estimation
+#### Motion Control
+- [Chracter MVAE control | Siggraph 2020](https://arxiv.org/pdf/2103.14274.pdf)
+- [Learning Symmetric and Low-energy Locomotion](https://arxiv.org/pdf/1801.08093.pdf)
 
-#### Motion Matching
+#### Motion Estimation
 
 #### Motion Synthesis
 
