@@ -14,7 +14,7 @@
 
 ### 💻 Computer Graphics Basics
 Books and website to recommend 
-- 📚 **Introduction to Computer Graphics with OpenGL ES** written by JungHyun Han: Read Chapter11 to 14, Highly recommended
+- 📚 **Introduction to Computer Graphics with OpenGL ES** written by JungHyun Han: Read Chapter 11 to 14, Highly recommended
 - 📚 **Computer Animation Algorithms and Techniques** written by Rick Patent
 - 📚 [Optional] **Hands-On Reinforcement Learning with Python Master reinforcement and deep reinforcement learning using OpenAI Gym and TensorFlow** written by Sudharsan Ravichandiran
 
