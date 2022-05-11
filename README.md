@@ -66,7 +66,7 @@ Some papers to checkout:
 
 
 
-### 🛠 Application or State-of-the-art
+### 🛠 Implementation or State-of-the-art
 
 Some papers might intrigue you :)
 
