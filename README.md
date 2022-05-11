@@ -3,8 +3,12 @@
 <p align="center">📓 From Basic to its Application 🛠</p>
   
 ---
-### Introduction
-As there aren’t many information about locomotion field or community to share with, I had hard time finding what to start during my first year of masters course. I have decided to open this repository to give help to anyone out there, who have slight interest or wants to start studying locomotion field. 
+### Content
+- Computer Graphics Basics
+- Locomotion Kinematic Basics
+- Related Simulation Engines
+- Character Animation
+- Application State-of-the-Art
 
 ### 💻 Computer Graphics Basics
 Books and website to recommend 
