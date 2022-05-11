@@ -1,6 +1,12 @@
 <h2 align="center"> All about locomotions from A to Z </h2>
+
+<div align="center">
   
-<p align="center">📓 From Basic to its Application 🛠</p>
+  📓 From Basic to its Application 🛠</p>
+  
+  [![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re)
+  
+ </div>
   
 ---
 ## Content
