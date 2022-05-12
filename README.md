@@ -72,7 +72,7 @@ Mainly, it utilize autoencoder for denoising
 
 #### Motion Control
 - [Chracter MVAE control | Siggraph 2020](https://arxiv.org/pdf/2103.14274.pdf)
-- [Learning Symmetric and Low-energy Locomotion](https://arxiv.org/pdf/1801.08093.pdf)
+- [Learning Symmetric and Low-energy Locomotion | Siggraph 2018](https://arxiv.org/pdf/1801.08093.pdf)
 
 #### Motion Estimation
 
