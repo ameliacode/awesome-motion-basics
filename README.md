@@ -1,4 +1,4 @@
-<h2 align="center"> All about locomotions from A to Z </h2>
+<h2 align="center"> Awesome Motion Basics </h2>
 
 <div align="center">
   
