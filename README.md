@@ -95,6 +95,7 @@ Mostly, unlike other computer science field, graphics engineers or researchers p
 - Korean Computer Graphics Society (KCGS)
 
 
-### 😎 Cool Graphics developer/researchers out there:
-
+### 😎 Cool Graphics related Developers/Researchers out there:
+- [Daniel Holden](https://theorangeduck.com/)
+- [JeHee Lee](https://mrl.snu.ac.kr/~jehee/)
 
