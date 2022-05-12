@@ -36,6 +36,7 @@ Overall, Skeleton consists a number of joints, starting from a root(mostly refer
 
 #### Data Processing
 
+#### Kinematics? Dynamics(Physics-based)?
 
 ### Related Simulation Engines
 
