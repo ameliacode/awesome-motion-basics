@@ -72,7 +72,7 @@ Some papers to checkout:
 #### Motion Estimation
 
 #### Motion Synthesis
-
+- [A Deep Learning Framework for Character Motion Synthesis and Editing | Siggraph 2016](https://www.ipab.inf.ed.ac.uk/cgvu/motionsynthesis.pdf)
 
 
 ### 🛠 Implementation or State-of-the-art
