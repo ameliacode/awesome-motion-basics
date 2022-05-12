@@ -61,9 +61,12 @@ Some papers to checkout:
 
 #### Motion Blending
 - [Flexible Automatic Motion Blending with Registration Curves Lucas | Eurographics 2003](https://research.cs.wisc.edu/graphics/Gallery/kovar.vol/RegistrationCurves/regCurves.pdf)
-- [Motion Blending Krisine Slot 2007](http://image.diku.dk/projects/media/kristine.slot.07.pdf)
+- [Motion Blending | 2007](http://image.diku.dk/projects/media/kristine.slot.07.pdf)
+
+#### Motion Classification
 
 #### Motion Denoise
+Mainly, it utilize autoencoder for denoising
 
 #### Motion Control
 - [Chracter MVAE control | Siggraph 2020](https://arxiv.org/pdf/2103.14274.pdf)
@@ -73,6 +76,7 @@ Some papers to checkout:
 
 #### Motion Synthesis
 - [A Deep Learning Framework for Character Motion Synthesis and Editing | Siggraph 2016](https://www.ipab.inf.ed.ac.uk/cgvu/motionsynthesis.pdf)
+
 
 
 ### 🛠 Implementation or State-of-the-art
