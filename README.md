@@ -86,7 +86,7 @@ Mainly, it utilize autoencoder for denoising
 Some papers might intrigue you :)
 
 
-### 📌 Conferenes
+### 📌 Conferences
 Mostly, unlike other computer science field, graphics engineers or researchers publish their paper in these conferences: SIGGRAPH, EUROGRAPHICS. Compared to other conferences, its registration fees are slightly expensive 🙄.
 
 - ACM Siggraph
