@@ -45,10 +45,11 @@ As long it is not simulated, users can simply create kinematic environment.
 - [Pybullet RL Environments: Zoo](https://github.com/araffin/rl-baselines-zoo)
 - [TUTORIAL: Teaching humanoid walk](https://www.codeproject.com/Articles/5280281/Teaching-a-Robot-to-Walk-with-AI-Introduction-to-C)
 
-#### Pydart
-#### Gazebo
-#### Ogre
-#### Mujoco
+#### Others
+- Mujoco
+- Pydart
+- Gazebo
+- Ogre
 
 ### 🦾 Character Animation
 Some papers to checkout:
