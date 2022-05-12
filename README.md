@@ -86,8 +86,13 @@ Mainly, it utilize autoencoder for denoising
 Some papers might intrigue you :)
 
 
-### Siggraph, Eurographics etc.
-Mostly, unlike other computer science field, graphics engineers or researchers publish their paper in these conferences: . Compared to other conferences, its registration fees are slightly expensive 🙄.
+### 📌 Conferenes
+Mostly, unlike other computer science field, graphics engineers or researchers publish their paper in these conferences: SIGGRAPH, EUROGRAPHICS. Compared to other conferences, its registration fees are slightly expensive 🙄.
+
+- ACM Siggraph
+- Eurographics
+- Pacific Graphics
+- Korean Computer Graphics Society (KCGS)
 
 
 ### 😎 Cool Graphics developer/researchers out there:
