@@ -89,7 +89,7 @@ Some papers might intrigue you :)
 ### 📌 Conferences
 Mostly, unlike other computer science field, graphics engineers or researchers publish their paper in these conferences: SIGGRAPH, EUROGRAPHICS. Compared to other conferences, its registration fees are slightly expensive 🙄.
 
-- ACM Siggraph
+- ACM Siggraph | ACM Siggraph Asia
 - Eurographics
 - Pacific Graphics
 - Korean Computer Graphics Society (KCGS)
