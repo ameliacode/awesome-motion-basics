@@ -73,6 +73,7 @@ Some papers to checkout:
 
 #### Motion Denoise
 Mainly, it utilize autoencoder for denoising
+- [Learning Motion Manifolds with Convolutional Autoencoders](https://www.theorangeduck.com/media/uploads/motioncnn.pdf)
 
 #### Motion Control
 - [Chracter MVAE control | Siggraph 2020](https://arxiv.org/pdf/2103.14274.pdf)
