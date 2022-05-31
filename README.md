@@ -77,6 +77,7 @@ Some papers to checkout:
 Mainly, it utilize autoencoder for denoising
 - [Learning Motion Manifolds with Convolutional Autoencoders](https://www.theorangeduck.com/media/uploads/motioncnn.pdf)
 
+
 #### Motion Control
 - [Chracter MVAE control | Siggraph 2020](https://arxiv.org/pdf/2103.14274.pdf)
 - [Learning Symmetric and Low-energy Locomotion | Siggraph 2018](https://arxiv.org/pdf/1801.08093.pdf)
@@ -86,7 +87,8 @@ Mainly, it utilize autoencoder for denoising
 #### Motion Synthesis
 - [A Deep Learning Framework for Character Motion Synthesis and Editing | Siggraph 2016](https://www.ipab.inf.ed.ac.uk/cgvu/motionsynthesis.pdf)
 
-
+#### ETC.
+- [The Rold of Manifold Learning in Human Motion Analysis](https://people.cs.rutgers.edu/~elgammal/pub/HumanMotionManifold.pdf)
 
 ### 🛠 Implementation or State-of-the-art
 
