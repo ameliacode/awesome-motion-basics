@@ -29,6 +29,8 @@ Books and website to recommend
 #### Motion Dataset 
 Its file extension vary: .bvh, .amc, .c3d, .mpg, .npz and so on.  
 Overall, Skeleton consists a number of joints, starting from a root(mostly refer to hips, pelvis, etc.) to all joints expand as child joints. In a skeleton, joints form a hierarchical structure with parent-child relationship. So, it is recommended to have prior knowledge of rotation unit (unit quaternion, rotation matrix, rotation vector, euler angle and so on), some data structure (tree, list) and, difference between character space(local joint space) and world space(global joint space).
+- .c3d, .tvd: mostly its data contains only marker location, no hierarchy info included
+- .amc+(.acf), .bvh: contains hierarchy info. two extension files are able to convert each other
 
 ☑ For starter, start playing with mocap file: ⚠ Notify not all mocap files have same joint numbers, info or sequences.
 - Mocap data parser: [Fairmotion](https://github.com/facebookresearch/fairmotion)
